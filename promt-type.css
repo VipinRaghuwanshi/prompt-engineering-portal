@@ -1,0 +1,50 @@
+/* Article Layout */
+
+.article{
+max-width:850px;
+margin:auto;
+}
+
+
+/* Intro Text */
+
+.intro-text{
+font-size:17px;
+margin-bottom:25px;
+color:#374151;
+}
+
+
+/* Prompt Cards */
+
+.card2{
+background:white;
+padding:22px;
+border-radius:12px;
+border:1px solid #e5e7eb;
+box-shadow:0 4px 10px rgba(0,0,0,0.05);
+transition:0.3s;
+}
+
+.card2:hover{
+transform:translateY(-6px);
+box-shadow:0 10px 25px rgba(0,0,0,0.12);
+}
+
+.card2 h3{
+color:#2563eb;
+margin-bottom:8px;
+}
+
+
+/* Example Box */
+
+.example-box{
+background:#f3f4f6;
+border-left:4px solid #2563eb;
+padding:18px;
+margin:20px 0;
+border-radius:8px;
+font-size:15px;
+line-height:1.7;
+}
