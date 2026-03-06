@@ -28,19 +28,6 @@ The structure of the portal is inspired by educational platforms such as Geeksfo
 
 ---
 
-## 📂 Project Structure
-
-```
-prompt-engineering-portal/
-│
-├── index.html
-├── introduction.html
-├── best-practices.html
-├── introduction.css
-└── README.md
-```
-
----
 
 ## 📖 What is Prompt Engineering?
 
